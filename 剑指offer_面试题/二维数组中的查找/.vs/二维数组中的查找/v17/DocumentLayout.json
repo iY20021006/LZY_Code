@@ -1,0 +1,41 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Code\\\u5251\u6307offer_\u9762\u8BD5\u9898\\\u4E8C\u7EF4\u6570\u7EC4\u4E2D\u7684\u67E5\u627E\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F43DAA8C-1402-4676-9270-07F11FB510F5}|\u4E8C\u7EF4\u6570\u7EC4\u4E2D\u7684\u67E5\u627E\\\u4E8C\u7EF4\u6570\u7EC4\u4E2D\u7684\u67E5\u627E.vcxproj|D:\\Code\\\u5251\u6307offer_\u9762\u8BD5\u9898\\\u4E8C\u7EF4\u6570\u7EC4\u4E2D\u7684\u67E5\u627E\\\u4E8C\u7EF4\u6570\u7EC4\u4E2D\u7684\u67E5\u627E\\\u4E8C\u7EF4\u6570\u7EC4\u4E2D\u7684\u67E5\u627E.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{F43DAA8C-1402-4676-9270-07F11FB510F5}|\u4E8C\u7EF4\u6570\u7EC4\u4E2D\u7684\u67E5\u627E\\\u4E8C\u7EF4\u6570\u7EC4\u4E2D\u7684\u67E5\u627E.vcxproj|solutionrelative:\u4E8C\u7EF4\u6570\u7EC4\u4E2D\u7684\u67E5\u627E\\\u4E8C\u7EF4\u6570\u7EC4\u4E2D\u7684\u67E5\u627E.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "\u4E8C\u7EF4\u6570\u7EC4\u4E2D\u7684\u67E5\u627E.cpp",
+              "DocumentMoniker": "D:\\Code\\\u5251\u6307offer_\u9762\u8BD5\u9898\\\u4E8C\u7EF4\u6570\u7EC4\u4E2D\u7684\u67E5\u627E\\\u4E8C\u7EF4\u6570\u7EC4\u4E2D\u7684\u67E5\u627E\\\u4E8C\u7EF4\u6570\u7EC4\u4E2D\u7684\u67E5\u627E.cpp",
+              "RelativeDocumentMoniker": "\u4E8C\u7EF4\u6570\u7EC4\u4E2D\u7684\u67E5\u627E\\\u4E8C\u7EF4\u6570\u7EC4\u4E2D\u7684\u67E5\u627E.cpp",
+              "ToolTip": "D:\\Code\\\u5251\u6307offer_\u9762\u8BD5\u9898\\\u4E8C\u7EF4\u6570\u7EC4\u4E2D\u7684\u67E5\u627E\\\u4E8C\u7EF4\u6570\u7EC4\u4E2D\u7684\u67E5\u627E\\\u4E8C\u7EF4\u6570\u7EC4\u4E2D\u7684\u67E5\u627E.cpp",
+              "RelativeToolTip": "\u4E8C\u7EF4\u6570\u7EC4\u4E2D\u7684\u67E5\u627E\\\u4E8C\u7EF4\u6570\u7EC4\u4E2D\u7684\u67E5\u627E.cpp",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAYAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-04-18T10:13:29.142Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
